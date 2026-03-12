@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DotnetWorkshop": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    }
+  }
+}

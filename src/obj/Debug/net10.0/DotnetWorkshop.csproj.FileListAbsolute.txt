@@ -1,0 +1,17 @@
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\bin\Debug\net10.0\DotnetWorkshop.exe
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\bin\Debug\net10.0\DotnetWorkshop.deps.json
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\bin\Debug\net10.0\DotnetWorkshop.runtimeconfig.json
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\bin\Debug\net10.0\DotnetWorkshop.dll
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\bin\Debug\net10.0\DotnetWorkshop.pdb
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWorkshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWorkshop.AssemblyInfoInputs.cache
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWorkshop.AssemblyInfo.cs
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWorkshop.csproj.CoreCompileInputs.cache
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWorkshop.dll
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\refint\DotnetWorkshop.dll
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWorkshop.pdb
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWorkshop.genruntimeconfig.cache
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\ref\DotnetWorkshop.dll
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\bin\Debug\net10.0\Bogus.dll
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWorkshop.csproj.AssemblyReference.cache
+D:\Code\Ziggo\oandsi\dotnet-workshop\DotnetWorkshop\obj\Debug\net10.0\DotnetWo.8246C16B.Up2Date

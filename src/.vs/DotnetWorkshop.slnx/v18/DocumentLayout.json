@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\iterationsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:iterationsexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\initializationexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:initializationexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\patternmatchingswitchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:patternmatchingswitchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\stringexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:stringexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\linqexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:linqexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\asyncexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:asyncexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\examplerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:examplerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\icodingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:icodingexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\dotnetworkshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:dotnetworkshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|d:\\code\\ziggo\\oandsi\\dotnet-workshop\\dotnetworkshop\\dotnetworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9BA0EEA-928B-8D50-7840-BF3F32D617E7}|DotnetWorkshop.csproj|solutionrelative:dotnetworkshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExampleRunner.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\ExampleRunner.cs",
+              "RelativeDocumentMoniker": "ExampleRunner.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\ExampleRunner.cs",
+              "RelativeToolTip": "ExampleRunner.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:57:39.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICodingExample.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\ICodingExample.cs",
+              "RelativeDocumentMoniker": "ICodingExample.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\ICodingExample.cs",
+              "RelativeToolTip": "ICodingExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:50:53.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitializationExample.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\InitializationExample.cs",
+              "RelativeDocumentMoniker": "InitializationExample.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\InitializationExample.cs",
+              "RelativeToolTip": "InitializationExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:01:25.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LinqExamples.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\LinqExamples.cs",
+              "RelativeDocumentMoniker": "LinqExamples.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\LinqExamples.cs",
+              "RelativeToolTip": "LinqExamples.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAQwFkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T13:14:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StringExamples.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\StringExamples.cs",
+              "RelativeDocumentMoniker": "StringExamples.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\StringExamples.cs",
+              "RelativeToolTip": "StringExamples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T15:59:31.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatternMatchingSwitchExample.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\PatternMatchingSwitchExample.cs",
+              "RelativeDocumentMoniker": "PatternMatchingSwitchExample.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\PatternMatchingSwitchExample.cs",
+              "RelativeToolTip": "PatternMatchingSwitchExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T17:31:13.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IterationsExample.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\IterationsExample.cs",
+              "RelativeDocumentMoniker": "IterationsExample.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\IterationsExample.cs",
+              "RelativeToolTip": "IterationsExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T15:39:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DotnetWorkshop",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\DotnetWorkshop.csproj",
+              "RelativeDocumentMoniker": "DotnetWorkshop.csproj",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\DotnetWorkshop.csproj",
+              "RelativeToolTip": "DotnetWorkshop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-24T14:30:25.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DotnetWorkshop.csproj",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\DotnetWorkshop.csproj",
+              "RelativeDocumentMoniker": "DotnetWorkshop.csproj",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\DotnetWorkshop.csproj",
+              "RelativeToolTip": "DotnetWorkshop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-24T14:30:13.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsyncExamples.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\AsyncExamples.cs",
+              "RelativeDocumentMoniker": "AsyncExamples.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\AsyncExamples.cs",
+              "RelativeToolTip": "AsyncExamples.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T14:02:22.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T13:39:37.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
