@@ -31,11 +31,6 @@ namespace DotnetWorkshop.Examples
                     Console.Error.WriteLine("Please enter a valid number or 'q' to quit");
                 }
             }
-            //    Console.WriteLine($"At 30 F water is {WaterState(30)}");
-            //Console.WriteLine($"At 32 F water is {WaterState(32)}");
-            //Console.WriteLine($"At 100 F water is {WaterState(100)}");
-            //Console.WriteLine($"At 212 F water is {WaterState(212)}");
-            //Console.WriteLine($"At 300 F water is {WaterState(300)}");
         }
 
         static string WaterState(int tempInFahrenheit) =>
