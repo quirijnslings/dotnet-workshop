@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\DotnetWorkshop.csproj": {}
+    "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\src\\DotnetWorkshop.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\DotnetWorkshop.csproj": {
+    "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\src\\DotnetWorkshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\DotnetWorkshop.csproj",
+        "projectUniqueName": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\src\\DotnetWorkshop.csproj",
         "projectName": "DotnetWorkshop",
-        "projectPath": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\DotnetWorkshop.csproj",
+        "projectPath": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\src\\DotnetWorkshop.csproj",
         "packagesPath": "D:\\Dev\\.nuget\\packages",
-        "outputPath": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\DotnetWorkshop\\obj\\",
+        "outputPath": "D:\\Code\\Ziggo\\oandsi\\dotnet-workshop\\src\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,6 +53,14 @@
             "Bogus": {
               "target": "Package",
               "version": "[35.6.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[10.0.5, )"
             }
           },
           "imports": [

@@ -1,0 +1,17 @@
+.idea/
+.DS_Store
+.vscode
+.github
+*.suo
+.vs
+bin
+obj
+dist
+.docker/appsettings.json
+**/appsettings.Staging.json
+**/appsettings.Production.json
+*.user
+.env
+.idea
+.nuget/packages
+.kiota.log

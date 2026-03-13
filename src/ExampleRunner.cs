@@ -4,19 +4,22 @@ using System.Text;
 
 namespace DotnetWorkshop
 {
-    public class ExampleRunner
+    public class ExampleRunner (GeneralSettings generalSettings)
     {
         public void Start()
         {
-            var exampleTypes = this.GetType().Assembly.GetTypes().Where(type => typeof(ICodingExample).IsAssignableFrom(type) && !type.IsAbstract);
+             var exampleTypes = this.GetType().Assembly.GetTypes().Where(type => typeof(ICodingExample).IsAssignableFrom(type) && !type.IsAbstract);
 
             while (true)
             {
                 Console.Clear();
+                Console.WriteLine($"Welcome to {generalSettings.AppName}, version {generalSettings.Version}. The author ({generalSettings.Author}) hopes you will enjoy it.");
+
                 var i = 1;
-                foreach (var exampleType in exampleTypes)
+
+                var examples = exampleTypes.Select(type => (ICodingExample)Activator.CreateInstance(type)).OrderBy(example => example.Name);
+                foreach (var example in examples)
                 {
-                    var example = (ICodingExample)Activator.CreateInstance(exampleType);
                     Console.WriteLine($"{i++}) {example.Name}");
                 }
 
@@ -30,8 +33,7 @@ namespace DotnetWorkshop
                 }
                 if (int.TryParse(input, out int nr) && nr > 0 && nr <= exampleTypes.Count())
                 {
-                    var exampleType = exampleTypes.ElementAt(nr - 1);
-                    var example = (ICodingExample)Activator.CreateInstance(exampleType);
+                    var example = examples.ElementAt(nr - 1);
                     RunExample(example);
                 }
                 else
