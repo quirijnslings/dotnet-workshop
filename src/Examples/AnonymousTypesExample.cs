@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DotnetWorkshop.Services;
+using System;
 using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
@@ -6,7 +7,7 @@ using System.Diagnostics;
 using System.Text;
 using System.Text.Json;
 
-namespace DotnetWorkshop
+namespace DotnetWorkshop.Examples
 {
     internal class AnonymousTypesExample : ICodingExample
     {

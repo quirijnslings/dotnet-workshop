@@ -1,17 +1,18 @@
-﻿using System;
+﻿using DotnetWorkshop.Services;
+using System;
 using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
 
-namespace DotnetWorkshop
+namespace DotnetWorkshop.Examples
 {
     internal class LinqExample : ICodingExample
     {
         private int[] scores = [97, 92, 81, 60];
 
-        public string Name => "LINQ Operations";
+        public string Name => "LINQ operations";
 
         public bool IsAsync => false;
 

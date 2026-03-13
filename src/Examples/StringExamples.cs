@@ -4,7 +4,7 @@ using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DotnetWorkshop
+namespace DotnetWorkshop.Examples
 {
     internal class StringExamples : ICodingExample
     {

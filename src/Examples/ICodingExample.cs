@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DotnetWorkshop
+namespace DotnetWorkshop.Examples
 {
     public interface ICodingExample
     {

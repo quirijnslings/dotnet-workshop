@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
 
-namespace DotnetWorkshop;
+namespace DotnetWorkshop.Examples;
 
 internal class WithExample : ICodingExample
 {

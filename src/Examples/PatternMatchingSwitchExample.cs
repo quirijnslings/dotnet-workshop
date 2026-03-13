@@ -2,11 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DotnetWorkshop
+namespace DotnetWorkshop.Examples
 {
     internal class PatternMatchingSwitchExample : ICodingExample
     {
-        public string Name => "Pattern Matching";
+        public string Name => "Pattern matching";
 
         public bool IsAsync => false;
 

@@ -5,11 +5,11 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
 
-namespace DotnetWorkshop
+namespace DotnetWorkshop.Examples
 {
     internal class IterationsExample : ICodingExample
     {
-        public string Name => "Async Iterations";
+        public string Name => "Iterations";
 
         public bool IsAsync => false;
 
@@ -35,23 +35,9 @@ namespace DotnetWorkshop
             return randomNumbers;
         }
 
-        private async Task<IEnumerable<int>> GetRandomNumbersAsync()
-        {
-            ConcurrentBag<int> randomNumbers = new ConcurrentBag<int>();
-            await Parallel.ForEachAsync(seeds, new ParallelOptions() { MaxDegreeOfParallelism = 10 }, async (number, _) => 
-            {
-                await Task.Delay(1000); // Simulate asynchronous work
-                randomNumbers.Add(new Random().Next(number - 5, number + 5));
-            });
-            return randomNumbers;
-        }
-
         public async Task RunAsync()
         {
-            var sw = new Stopwatch();
-            sw.Start();
-            var randomNumbersAsync = await GetRandomNumbersAsync();
-            Console.WriteLine($"Generating random numbers inside an async method took {sw.ElapsedMilliseconds} ms\r\n\r\n");
+           throw new NotImplementedException();
         }
 
         public void Run()

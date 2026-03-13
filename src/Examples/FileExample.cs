@@ -5,11 +5,11 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Text;
 
-namespace DotnetWorkshop
+namespace DotnetWorkshop.Examples
 {
     internal class FileExample : ICodingExample
     {
-        public string Name => "File Operations";
+        public string Name => "File operations";
 
         public bool IsAsync => false;
 

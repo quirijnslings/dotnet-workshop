@@ -1,6 +1,6 @@
 ﻿using Bogus;
 
-namespace DotnetWorkshop
+namespace DotnetWorkshop.Services
 {
     internal class DatabaseService
     {
