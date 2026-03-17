@@ -10,19 +10,19 @@ namespace DotnetWorkshop.Examples
     {
         public void Run()
         {
-            Console.WriteLine("Please view the code (StringExamples)");
+            Console.WriteLine($"Place breakpoint in {this.GetType().Name} to view the code in action");
 
             // string interpolation
             var msg = $"User '{name}' can be reached via email at {email}";
             // raw string literals
-            var msg2 = """
-                This is a string with "double" as well as 'single' quotes in it.
-                It can also span multiple lines without the need for escape sequences.
+            var msg2 = """This is a string with "double" as well as 'single' quotes in it""";
+            var msg3 = """
+                Strings can span multiple lines without the need for escape sequences.
                 """;
             // raw string literals with more than three double quotes
-            var msg3 = """"This is a string with no less than three """double""" quotes in it """";
+            var msg4 = """"This is a string with no less than three """double""" quotes in it """";
             // raw string literals with interpolation
-            var msg4 = $"""User "{name}" can be reached via email at "{email}" """;
+            var msg5 = $"""User "{name}" can be reached via email at "{email}" """;
             // verbatim strings (no escape possible!) 
             var path = @"C:\Data\Files\file.txt";
 
