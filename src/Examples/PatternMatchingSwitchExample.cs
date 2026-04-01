@@ -12,15 +12,17 @@ internal class PatternMatchingSwitchExample : ICodingExample
 
     public void Run()
     {
-        object o = 42;
-        if (o is int)
+        object aValue = 42;
+        if (aValue is int)
         {
-            Console.WriteLine($"o is an int");
+            Console.WriteLine($"aValue is an int");
         }
-        if (o is int i)
+        if (aValue is int i)
         {
-            Console.WriteLine($"o is an int and its value is {i}");
+            Console.WriteLine($"aValue is an int and when I double it I get {i*2}");
         }
+
+        object o = "string";
         if (o is { })
         {
             Console.WriteLine($"o is not null");
@@ -63,7 +65,7 @@ internal class PatternMatchingSwitchExample : ICodingExample
             (> 32) and (< 212) => "liquid", // relation pattern in combination with logical pattern (and, or, not)
             212 => "liquid / gas transition",
             // > 212 => "gas", 
-            _ => "gas", // instead of listing all possibilities, you can also use the discard pattern
+            _ => "gas", // instead of listing all possibilities, you can also use the discard pattern (the underscore)
         };
 
 
