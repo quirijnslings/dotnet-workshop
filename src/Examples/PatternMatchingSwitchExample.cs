@@ -22,6 +22,15 @@ internal class PatternMatchingSwitchExample : ICodingExample
             Console.WriteLine($"aValue is an int and when I double it I get {i*2}");
         }
 
+        if (aValue is 42 or 84 or 126)
+        {
+            // nice and short!
+        }
+        if (((int)aValue) == 42 || ((int)aValue) == 84 || ((int)aValue) == 126)
+        {
+            // convoluted and hard to read
+        }
+
         object o = "string";
         if (o is { })
         {
