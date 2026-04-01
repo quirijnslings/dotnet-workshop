@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Text.Json;
 
@@ -22,6 +23,8 @@ namespace DotnetWorkshop.Examples
 
         public void Run()
         {
+
+
             Console.WriteLine($"Place breakpoint in {this.GetType().Name} to view the code in action");
 
             // simple example of an anonymous type
@@ -34,9 +37,17 @@ namespace DotnetWorkshop.Examples
             var gender = "Male";
             var p2 = new { age, name, gender };
             Console.WriteLine($"Person 2 is {p2.age} years old");
+
             // p2.age = 43; // this is not possible, properties of an anonymous type are always read-only
+
+            // you can reassign a value as long as the implicit class is the same
+            p = new { Name = "Bob", Age = 25, Gender = "Male" };
+
+           // p = new { Name = "Joey", Gender = "Male" }; // this is not possible because the implicit class is different!
+
             var t = p2.GetType();
             Console.WriteLine($"The anonymous type is called {t.Name}");
+
 
             // very useful in serialization scenarios, especially when calling a remote API
             string json = JsonSerializer.Serialize(p);
